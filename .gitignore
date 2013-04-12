@@ -1,0 +1,6 @@
+.DS_Store
+Base File.sublime-settings
+*.pyc
+Global.sublime-settings
+Package Control.last-run
+Side Bar.sublime-settings
